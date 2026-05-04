@@ -2,8 +2,8 @@
 <h1 align="center">Hi there 👋, I am Ing. Moisés Alfonso Neri 👋</h1>
 </div>
 <img src="CIENTIFICO DE DATOS.jpg">
-[![Linkedin How to reach me](https://www.linkedin.com/in/moineri/)]
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Linkedin How to reach me](LINKEDIN.png)](https://www.linkedin.com/in/moineri/)
+
 
 - 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... Junior Data Scientist Aspirant
