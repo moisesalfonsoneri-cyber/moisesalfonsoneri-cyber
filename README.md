@@ -1,4 +1,9 @@
-### Hi there 👋, I am Ing. Moisés Alfonso Neri
+<div align="center">
+<h1 align="center">Hi there 👋, I am Ing. Moisés Alfonso Neri 👋</h1>
+</div>
+<img src="https://i.imgur.com/Wskj8cn.jpeg">
+
+
 #### Junior Data Scientist Aspirant
 
 - 🔭 I’m currently working on ... Machine Learning
