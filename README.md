@@ -2,7 +2,7 @@
 
 # Hi there 👋, I am Ing. Moisés Alfonso Neri
 
-### Junior Data Scientist Aspirant | Business & Comercial Industrial Experience
+### Junior Data Scientist Aspirant | Business Development & Industrial Sales Expertise
 
 <img src="./CIENTIFICO%20DE%20DATOS.jpg" alt="Data Science Banner - Moisés Alfonso Neri" width="100%">
 
